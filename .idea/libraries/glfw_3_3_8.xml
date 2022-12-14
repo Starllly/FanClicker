@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="glfw-3.3.8">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="jar://$USER_HOME$/Downloads/glfw-3.3.8.zip!/" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
